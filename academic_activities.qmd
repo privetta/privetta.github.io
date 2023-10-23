@@ -1,0 +1,18 @@
+---
+title: "Academic Activities"
+---
+
+<!-- This css code to control size of the page title. Here it is 0 to make it invisible -->
+
+```{=html}
+<style>
+.title {
+  font-size: 0px;
+}
+</style>
+```
+Here about:
+
+-   participation in conferences, workshops, roundtables
+-   organizations of conferences: ultimate conference
+-   organization of workshops and summer schools (EUSP workshop)

@@ -3,18 +3,54 @@ project:
   output-dir: docs
 
 website:
-  title: "sergeeva_website"
+  title: "Ivetta Sergeeva"
+  description: "Ivetta Sergeeva: Personal Website"
+  search: true
   navbar:
+    # change color of navigation top panel, if you want
+    #background: "#fcf9f2"
+    #foreground: "black"
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
+      - projects.qmd 
+      #- teaching.qmd #if you want to use that pages uncomment them but you need to have relevant .qmd
+      #- academic_activities.qmd
+      - CV.qmd
+
+  favicon: logo_flavicon.png
+  
+  page-footer:
+    # Change color of the bottom part of the site
+    #background: "#464646"
+    left: |
+      <br>
+      <br>
+      {{< fa regular copyright >}} Emil Kamalov, 2023<br>
+      All content licensed under {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
+      Opinions are my own and do not represent my employer
+    
+    right: |
+      ![Logo image](logo_bottom.png){width=70px}<br> 
+      <br>
+      Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
+      Inspiration and code snippets taken from [one](https://ucsb-meds.github.io/creating-quarto-websites/) and [two](https://www.andreashandel.com/)
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
+    
+    # Additional things to control for all site
+    #linkcolor: "#000000"
+    #backgroundcolor: "#fcf9f2"
+    #mainfont: "Roboto"
+    #fontsize: 12pt 
+    
 
 editor: visual
 
