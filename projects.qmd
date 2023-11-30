@@ -4,16 +4,19 @@ title: "Projects"
 
 <!-- This css code to control size of the page title. Here it is 0 to make it invisible -->
 
+```{=html}
 <style>
 .title {
   font-size: 0px;
 }
 </style>
+```
+### OutRush, Panel-survey of Political Russian Migrants: 2022 ---
 
-### Panel-survey of War-induced Russian Emigrants: OutRush Project. 2022 - ongoing
+[OutRush](https://outrush.io/eng) focuses on political migrants who left Russia after 2022 invasion of Ukraine. OutRush employs a panel methodology, providing real-time insights about the dynamic of situation of Russian migrants by consistently surveying **the same individuals every six months** on various aspects like economic stability, fears and expectations, and political activity.\
 
-Some information
+Since its inception in March 2022, the project has effectively monitored the changing attitudes and actions of Russian migrants, conducting **three survey waves in 1.5 years**. It has involved over **10,000 participants** now located in more than a **hundred countries**. The project has garnered substantial international media coverage and has drawn the attention of policymakers and experts. Crucially, it has also earned the trust and interest of Russian migrants.
 
-### Intimate Partner Violence in Russia: ViolenceMonitor Project: 2021
+### ViolenceMonitor, Survey on Intimate Partner Violence in Russia: 2021 - 2022
 
-Some information
+[ViolenceMonitor](https://violencemonitor.org/) is the first survey on intimate partner violence in Russia **in 15 years**, conducted in 2022. We used **UN methodology and 4 survey methods**, including two experimental ones. **Over 4000 men and women** participated in the survey. We discovered the prevalence of intimate partner violence in Russia, identified its impacts, determined the groups most vulnerable to it, and found out whom victims seek assistance from.

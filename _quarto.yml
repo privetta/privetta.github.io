@@ -10,7 +10,7 @@ website:
     # change color of navigation top panel, if you want
     #background: "#fcf9f2"
     #foreground: "black"
-    logo: logo.png
+    #logo: logo.png
     left:
       - href: index.qmd
         text: Home
@@ -20,7 +20,7 @@ website:
       #- academic_activities.qmd
       - CV.qmd
 
-  favicon: logo_flavicon.png
+  #favicon: logo_flavicon.png
   
   page-footer:
     # Change color of the bottom part of the site
@@ -28,26 +28,28 @@ website:
     left: |
       <br>
       <br>
-      {{< fa regular copyright >}} Emil Kamalov, 2023<br>
+      {{< fa regular copyright >}} Ivetta Sergeeva, 2023<br>
       All content licensed under {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
       Opinions are my own and do not represent my employer
     
     right: |
-      ![Logo image](logo_bottom.png){width=70px}<br> 
-      <br>
       Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
       Inspiration and code snippets taken from [one](https://ucsb-meds.github.io/creating-quarto-websites/) and [two](https://www.andreashandel.com/)
 
 format:
   html:
-    theme: yeti
+    theme: [flatly, style.scss]
     css: styles.css
+    fontsize: 1.3em
     toc: true
-    
+    grid:
+      sidebar-width: 50px
+      body-width: 1200px
     # Additional things to control for all site
-    #linkcolor: "#000000"
-    #backgroundcolor: "#fcf9f2"
+    linkcolor: "#384D48"
+    #backgroundcolor: "#EBF5EE"
+    backgroundcolor: "#E2E2E2"
     #mainfont: "Roboto"
     #fontsize: 12pt 
     

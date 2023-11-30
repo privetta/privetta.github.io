@@ -11,11 +11,11 @@ title: "Teaching"
 }
 </style>
 ```
-| **Course**                                                  | **University**                                                                   | **Level** | **Year**  | **Syllabus** |
-|------------------|---------------|-------------|-------------|-------------|
-| Intermediate Quantitative Methods in Social Sciences                     | [European University in Saint Petersburg](https://eusp.org/en/sociology), Russia | Masters   | 2021      |              |
+| **Course**                                                                                                        | **University**                                                                   | **Level** | **Year**  | **Syllabus** |
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|-----------|--------------|
+| Intermediate Quantitative Methods in Social Sciences                                                              | [European University in Saint Petersburg](https://eusp.org/en/sociology), Russia | Masters   | 2021      |              |
 | [Research Seminar Quantitative Methods in Political Research](https://spb.hse.ru/en/ma/pm/courses/375308895.html) | [Higher School of Economics](https://spb.hse.ru/en/ma/pm), Russia                | Masters   | 2021      |              |
-| [Methodology of Contemporary Asian Studies](https://spb.hse.ru/en/ma/econasia/courses/375309025.html)                   | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia        | Masters   | 2020-2021 |              |
-| [Introduction to Statistics with R](https://pandan.eusp.org/lecturerslist)                           | [Yandex & European University in Saint Petersburg](https://pandan.eusp.org/)     | Masters   | 2020      |              |
-| R-crash course                                              | [European University in Saint Petersburg](https://eusp.org/en/sociology)       | Masters   | 2020      |              |
-| [Methodology for Sociopolitical Research in East Asia](https://spb.hse.ru/en/ma/econasia/courses/298723267.html)        | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia        | Masters   | 2019-2020 |              |
+| [Methodology of Contemporary Asian Studies](https://spb.hse.ru/en/ma/econasia/courses/375309025.html)             | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia          | Masters   | 2020-2021 |              |
+| [Introduction to Statistics with R](https://pandan.eusp.org/lecturerslist)                                        | [Yandex & European University in Saint Petersburg](https://pandan.eusp.org/)     | Masters   | 2020      |              |
+| R-crash course                                                                                                    | [European University in Saint Petersburg](https://eusp.org/en/sociology)         | Masters   | 2020      |              |
+| [Methodology for Sociopolitical Research in East Asia](https://spb.hse.ru/en/ma/econasia/courses/298723267.html)  | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia          | Masters   | 2019-2020 |              |

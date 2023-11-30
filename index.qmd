@@ -8,23 +8,28 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/
+      href: https://www.linkedin.com/in/ivetta-sergeeva/
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/
     - icon: github
       text: GitHub
-      href: https://github.com/
+      href: https://github.com/privetta
     - icon: rocket
       text: University Page
-      href: https://www.eui.eu/
+      href: https://www.eui.eu/people?id=ivetta-sergeeva
     - icon: envelope
       text: Email
-      href: mailto:emil@gmail.com
+      href: mailto:ivetta.sergeeva@gmail.com
 ---
 
-I am a PhD researcher in the [Department of Political and Social Sciences](https://www.eui.eu/en/academic-units/political-and-social-sciences) at the [European University Institute](https://www.eui.eu) (EUI), Florence. I study political behavior, violence, repressions and war-induced Russian emigration. I love statistics, experimental and surveys methods.
+I am a social scientist focusing on topics in political behavior, civil society, and migration. I am currently a PhD researcher in the Department of Political and Social Sciences at the [European University Institute](https://www.eui.eu/en/home), Florence. In my research, I use a mixed-method methodology with a focus on surveys, statistical modeling, experiments, and interviews. 
 
-Prior to EUI I was working as a junior research fellow at [Ronald F. Inglehart Laboratory for Comparative Social Research](https://lcsr.hse.ru/en/) and taught quantitative methods at [Higher School of Economics](https://www.hse.ru/en/) (HSE) and [European University at Saint Petersburg](https://eusp.org/en). I received a Master's degree in Social Sciences from HSE, and a Bachelor's degree in Economics from a university in the middle of Russia. I also happen to have a [Candidate of Sciences](https://en.wikipedia.org/wiki/Candidate_of_Sciences) degree in Social Philosophy.
+Apart from research skills, I have eight years of experience supervising projects in civil society and human rights organizations in the challenging environment of contemporary Russia.
 
-With [Ivetta Sergeeva](https://www.eui.eu/people?id=ivetta-sergeeva), I am a co-founder and co-principal investigator of two multi-wave survey projects: [OutRush](https://outrush.io/eng) and [ViolenceMonitor](https://violencemonitor.org/). OutRush is a panel survey of war-induced Russian emigrants who left Russia after 24 February, 2022. ViolenceMonitor is a series of intimate partner violence victimization surveys that took place in 2021 in Russia.
+In collaboration with [Emil Kamalov](https://emilkamalov.com/), I've co-founded and co-lead two research projects:
+
+-   [OutRush](https://outrush.io/eng), a panel survey of Russian political migrants, initiated as both a personal and professional reaction to the 2022 invasion of Ukraine.
+-   [Violence Monitor](https://violencemonitor.org/), a national survey on intimate partner violence in Russia that integrates UN methodology with experimental techniques.
+
+My work has been featured in the [Financial Times](https://www.ft.com/content/5e6bcce9-7bda-4b29-b1b7-f7df6e879fd9), [Deutsche Welle](https://www.dw.com/ru/sdelka-s-sovestu-pokinuvsie-rossiu-i-potom-vernuvsiesa-o-svoem-opyte/a-66896905), [BBC](https://www.bbc.com/russian/features-65686712), [CNBC](https://www.cnbc.com/2022/11/25/georgia-armenia-turkey-economies-boom-with-russian-wealth-migration.html), [Fortune](https://fortune.com/europe/2022/08/20/russia-brain-drain-young-russians-leaving-after-ukraine-war-putin/), [The Moscow Times](https://www.themoscowtimes.com/2023/10/25/15-of-russians-who-fled-war-mobilization-have-returned-survey-a82885).
