@@ -41,7 +41,7 @@ format:
   html:
     theme: [flatly, style.scss]
     css: styles.css
-    fontsize: 14pt
+    fontsize: 12pt
     toc: true
     grid:
       sidebar-width: 50px
