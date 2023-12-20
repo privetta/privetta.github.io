@@ -13,7 +13,17 @@ title: "Publications and Media"
 ```
 ### Working Papers
 
-Gendered Response to War: Analysing Patterns of Political Activism of Post-War Russian Emigrants, 2022-2023. Co-authored with E. Kamalov and K. Nugumanova.
+**You Can Leave The Autocracy, But Will The Autocracy Leave You? Subjective Well-being of Russian Political Migrants in 2022. Co-authored with E. Kamalov**
+
+<details>
+
+<summary>Abstract</summary>
+
+*Due to political crises, millions of people have moved beyond their autocratic home countries in search of a more secure life. However, the influence and control of these autocratic regimes often follow them on this journey. By examining the case of Russian emigration following the full-fledged invasion of Ukraine in 2022, we demonstrate how the direct and indirect actions of autocratic home countries can undermine the subjective well-being of migrants. Utilizing a unique panel survey and in-depth interviews, our findings reveal that the actions of autocratic home countries are significantly connected to the migrants' well-being, often more so than traditional determinants like income and employment. Fears of transnational repression, instilled by the Russian government and widespread among Russian migrants, correlate with a reduction in subjective well-being comparable to the effects of income loss and unemployment. Notably, the fear of discrimination, stemming from a host-country backlash against the actions of autocrats, has a more detrimental effect on well-being than experienced discrimination, highlighting the psychological toll of anticipatory fears. The study also finds that group-based guilt and a sense of responsibility for Russia's actions in Ukraine may further exacerbate subjective well-being of migrants. The paper concludes that autocratic regimes maintain a substantial influence on the lives of their emigrants, frequently intensifying the potential negative impact of host countries. This research contributes to a deeper understanding of the complex factors affecting the well-being of individuals forced to emigrate due to political crises. It also sheds light on how autocrats potentially diminish the resilience of political migrants to engage in home-country politics by undermining their psychological resources for action.*
+
+</details>
+
+**Gendered Response to War: Analysing Patterns of Political Activism of Post-War Russian Emigrants, 2022-2023. Co-authored with E. Kamalov and K. Nugumanova.**
 
 <details>
 
@@ -23,7 +33,7 @@ Gendered Response to War: Analysing Patterns of Political Activism of Post-War R
 
 </details>
 
-Measuring Intimate Partner Violence: Evidence from Field and Survey Experiments. Co-authored with E. Kamalov
+**Measuring Intimate Partner Violence: Evidence from Field and Survey Experiments. Co-authored with E. Kamalov**
 
 <details>
 
@@ -33,7 +43,7 @@ Measuring Intimate Partner Violence: Evidence from Field and Survey Experiments.
 
 </details>
 
-Helping to flee a political crisis: a Conjoint Experiment of Russian Migrants. Co-authored with E. Kamalov
+**Helping to flee a political crisis: a Conjoint Experiment of Russian Migrants. Co-authored with E. Kamalov**
 
 <details>
 
@@ -43,7 +53,7 @@ Helping to flee a political crisis: a Conjoint Experiment of Russian Migrants. C
 
 </details>
 
-The effect of discrimination on the political behavior of recent migrants: evidence from three waves of the panel survey of new Russian migrants. Co-authored with E. Kamalov
+**The effect of discrimination on the political behavior of recent migrants: evidence from three waves of the panel survey of new Russian migrants. Co-authored with E. Kamalov**
 
 <details>
 
@@ -53,7 +63,7 @@ Since the invasion of Ukraine in February 2022, hundreds of thousands of migrant
 
 </details>
 
-Democracy in Exile? Trajectories of Russian Anti-War Migrants in Eurasia. Co-authored with M. Zavadskaya and E. Kamalov
+**Voice after Exit? Exploring Civic Activism among Russian Migrant Communities in Eurasia after February 24, 2022. Co-authored with M. Zavadskaya and E. Kamalov**
 
 <details>
 
@@ -63,7 +73,7 @@ Democracy in Exile? Trajectories of Russian Anti-War Migrants in Eurasia. Co-aut
 
 </details>
 
-Can media framing increase support for health reform? Results of the Conjoint Experiment. Co-authored with B. Sokolov, M. Zavadskaya and E. Kamalov. <!-- <details><summary>Abstract</summary> -->
+**Can media framing increase support for health reform? Results of the Conjoint Experiment. Co-authored with B. Sokolov, M. Zavadskaya and E. Kamalov.** <!-- <details><summary>Abstract</summary> -->
 
 <!-- </details> -->
 
