@@ -13,7 +13,7 @@ title: "Publications and Media"
 ```
 ### Working Papers
 
-**You Can Leave The Autocracy, But Will The Autocracy Leave You? Subjective Well-being of Russian Political Migrants in 2022. Co-authored with E. Kamalov**
+[You Can Leave The Autocracy, But Will The Autocracy Leave You? Subjective Well-being of Russian Political Migrants in 2022](https://osf.io/preprints/socarxiv/2wmuy)
 
 <details>
 
@@ -23,17 +23,17 @@ title: "Publications and Media"
 
 </details>
 
-**Gendered Response to War: Analysing Patterns of Political Activism of Post-War Russian Emigrants, 2022-2023. Co-authored with E. Kamalov and K. Nugumanova.**
-
-<details>
-
-<summary>Abstract</summary>
-
-*In the wake of Russia's invasion of Ukraine, gender dynamics in political activism have come to the fore. While the media has reported extensively on the rise of a feminist anti-war resistance movement, the question remains whether there are indeed tangible gender differences in the political behaviour of post-war migrants and, if so, what factors underpin these differences. Although historical narratives depict politics as a predominantly male domain, with women traditionally showing lower levels of political engagement, recent shifts suggest a more complex landscape. Analyzing data from the OutRush panel survey, this study reveals that women, despite reporting heightened feelings of depression and a bleak outlook, consistently exhibit increased political and civic activism compared to men---except in assistance to fellow Russians. Intriguingly, conventional indicators, such as political interest and trust, displayed no gender disparity. A regression analysis posits that feelings of responsibility and the urge for reparations account for the observed gender gap, suggesting that these emotions might play a pivotal role in fueling women's political fervor. To refine our understanding of gendered motivations, a forthcoming Blinder-Oaxaca decomposition analysis will examine whether emotions such as responsibility and reparations drive political and civic engagement differently across genders. The quantitative data is complemented by extensive qualitative research, including interviews with numerous feminist anti-war resistance activists. These interviews explore their personal views on the contrasting experiences of male and female activists, and examines how gender norms and institutional frameworks in their host countries either support or hinder their activist endeavours. This research hopes to illuminate the intricate tapestry of gendered political activism in post-war migration scenarios.*
+[Voice after Exit? Exploring Civic Activism among Russian Migrant Communities in Eurasia after February 24, 2022](https://osf.io/preprints/socarxiv/3dnsv)
 
 </details>
 
-**Measuring Intimate Partner Violence: Evidence from Field and Survey Experiments. Co-authored with E. Kamalov**
+<summary>Abstract</summary>
+
+*Can citizens continue to participate in the politics of their home country after migrating to another country? Many examples exist of migrants engaging in their countries of origin's political affairs, such as expatriate voting, forming political communities and hometown associations, donating money to political movements and politicians, advocating for migrants' rights, and other forms of political participation. However, it remains unclear why migrants are willing to continue exercising their 'voice' after 'exit' and what the main challenges and obstacles are for them to do so while abroad. In this chapter, we analyze the patterns of civic and political engagement among Russian migrants who fled their home country following the invasion of Ukraine in February 2022. Drawing on scholarship in migration studies, we view exit and voice not as mutually exclusive but as mutually reinforcing alternatives. We argue that the way migrants connect with their homeland plays a crucial role in mobilizing and demobilizing them, particularly the connections they have with their employers. The incentives provided by employers may force migrants to dampen their propensity to engage in political activities. To support our argument, we rely on an original survey conducted in March-April and September 2022, as well as semi-structured, in-depth interviews conducted in Georgia, Kazakhstan, Kyrgyzstan, Armenia, and Turkey.*
+
+</details>
+
+Measuring Intimate Partner Violence: Evidence from Field and Survey Experiments. Co-authored with E. Kamalov
 
 <details>
 
@@ -43,7 +43,7 @@ title: "Publications and Media"
 
 </details>
 
-**Helping to flee a political crisis: a Conjoint Experiment of Russian Migrants. Co-authored with E. Kamalov**
+Helping to flee a political crisis: a Conjoint Experiment of Russian Migrants. Co-authored with E. Kamalov
 
 <details>
 
@@ -53,7 +53,7 @@ title: "Publications and Media"
 
 </details>
 
-**The effect of discrimination on the political behavior of recent migrants: evidence from three waves of the panel survey of new Russian migrants. Co-authored with E. Kamalov**
+The effect of discrimination on the political behavior of recent migrants: evidence from three waves of the panel survey of new Russian migrants. Co-authored with E. Kamalov
 
 <details>
 
@@ -63,17 +63,7 @@ Since the invasion of Ukraine in February 2022, hundreds of thousands of migrant
 
 </details>
 
-**Voice after Exit? Exploring Civic Activism among Russian Migrant Communities in Eurasia after February 24, 2022. Co-authored with M. Zavadskaya and E. Kamalov**
-
-<details>
-
-<summary>Abstract</summary>
-
-*Can citizens continue to participate in the politics of their home country after migrating to another country? Many examples exist of migrants engaging in their countries of origin's political affairs, such as expatriate voting, forming political communities and hometown associations, donating money to political movements and politicians, advocating for migrants' rights, and other forms of political participation. However, it remains unclear why migrants are willing to continue exercising their 'voice' after 'exit' and what the main challenges and obstacles are for them to do so while abroad. In this chapter, we analyze the patterns of civic and political engagement among Russian migrants who fled their home country following the invasion of Ukraine in February 2022. Drawing on scholarship in migration studies, we view exit and voice not as mutually exclusive but as mutually reinforcing alternatives. We argue that the way migrants connect with their homeland plays a crucial role in mobilizing and demobilizing them, particularly the connections they have with their employers. The incentives provided by employers may force migrants to dampen their propensity to engage in political activities. To support our argument, we rely on an original survey conducted in March-April and September 2022, as well as semi-structured, in-depth interviews conducted in Georgia, Kazakhstan, Kyrgyzstan, Armenia, and Turkey.*
-
-</details>
-
-**Can media framing increase support for health reform? Results of the Conjoint Experiment. Co-authored with B. Sokolov, M. Zavadskaya and E. Kamalov.** <!-- <details><summary>Abstract</summary> -->
+Can media framing increase support for health reform? Results of the Conjoint Experiment. Co-authored with B. Sokolov, M. Zavadskaya and E. Kamalov. <!-- <details><summary>Abstract</summary> -->
 
 <!-- </details> -->
 
