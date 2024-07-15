@@ -1,6 +1,6 @@
 ---
 title: "Ivetta Sergeeva"
-image: profile_main.jpg
+image: sergeeva_headshot.jpg
 about: 
   template: trestles
   image-shape: round
