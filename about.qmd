@@ -2,10 +2,9 @@
 title: "About"
 ---
 
-I am a Postdoctoral Fellow at Stanford University, based at the Center on Democracy, Development, and the Rule of Law. Additionally, I am a co-principal investigator for the [DemEx project](https://www.transatlanticplatform.com/demex/), co-funded by NSF. I hold a PhD in Social and Political Sciences from the European University Institute (EUI), Florence.
+I am a Postdoctoral Fellow at Stanford University, based at the Center on Democracy, Development, and the Rule of Law. Additionally, I am a Principal investigator for the [DemEx project](https://www.transatlanticplatform.com/demex/), funded by NSF. I hold a PhD in Social and Political Sciences from the European University Institute (EUI), Florence.
 
-My research focuses on topics related to authoritarianism, civil society, and emigration. I use a mixed-methods approach with an emphasis on surveys, experiments, statistical modeling, and interviews. In addition to research skills, I have eight years of experience working as a project coordinator in civil society and human rights initiatives within the challenging environment of contemporary Russia. 
-
+My research focuses on topics related to authoritarianism, civil society, and emigration. I use a mixed-methods approach with an emphasis on surveys, experiments, statistical modeling, and interviews. In addition to research skills, I have eight years of experience working as a project coordinator in civil society and human rights initiatives within the challenging environment of contemporary Russia.
 
 In collaboration with Emil Kamalov, I've co-founded and co-lead two significant projects. The first, OutRush, is a panel survey of Russian political migrants, initiated as both a personal and professional reaction to the 2022 invasion of Ukraine. The second project, Violence Monitor, is a national survey addressing intimate partner violence in Russia. This project uniquely integrates UN methodologies with experimental techniques.
 
