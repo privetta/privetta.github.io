@@ -11,6 +11,7 @@ title: "Projects"
 }
 </style>
 ```
+
 ### OutRush, Panel-survey of Political Russian Migrants: 2022 ---
 
 [OutRush](https://outrush.io/eng) focuses on political migrants who left Russia after 2022 invasion of Ukraine. OutRush employs a panel methodology, providing real-time insights about the dynamic of situation of Russian migrants by consistently surveying **the same individuals every 12 months** on various aspects like political behaviour, fears and expectations, and intergration.\

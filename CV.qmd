@@ -11,4 +11,5 @@ title: "CV"
 }
 </style>
 ```
+
 My Curriculum Vitae available here. {{< pdf sergeeva_cv_2024.pdf width=120% height=800 >}}
