@@ -23,14 +23,11 @@ website:
   #favicon: logo_flavicon.png
   
   page-footer:
-    # Change color of the bottom part of the site
-    #background: "#464646"
     left: |
       <br>
       <br>
-      {{< fa regular copyright >}} Ivetta Sergeeva, 2023<br>
-      All content licensed under {{< fa brands creative-commons >}}
-      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
+      © Ivetta Sergeeva, 2024<br>
+      All content licensed under CC BY-NC-SA 4.0<br>
       Opinions are my own and do not represent my employer
     
     right: |
