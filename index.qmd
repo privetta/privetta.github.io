@@ -23,7 +23,7 @@ about:
       href: mailto:sergeeva@stanford.edu
 ---
 
-I am a Postdoctoral Fellow at Stanford University, based at the Center on Democracy, Development, and the Rule of Law. Additionally, I am a co-principal investigator for the [DemEx project](https://www.transatlanticplatform.com/demex/), co-funded by NSF. I hold a PhD in Social and Political Sciences from the European University Institute (EUI), Florence.
+I am a Postdoctoral Fellow at Stanford University, based at the Center on Democracy, Development, and the Rule of Law. Additionally, I am a co-principal investigator for the [DemEx project](https://www.transatlanticplatform.com/demex/), funded by NSF. I hold a PhD in Social and Political Sciences from the European University Institute (EUI), Florence.
 
 My research focuses on topics related to authoritarianism, civil society, and emigration. I use a mixed-methods approach with an emphasis on surveys, experiments, statistical modeling, and interviews. In addition to research skills, I have eight years of experience working as a project coordinator in civil society and human rights initiatives in the challenging environment of contemporary Russia.
 
