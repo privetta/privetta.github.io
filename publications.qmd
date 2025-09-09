@@ -11,25 +11,40 @@ title: "Publications and Media"
 }
 </style>
 ```
+
+### Peer-Reviewed Publications 
+
+[Invisible Costs of Exiting Autocracy: Subjective Well-being and Emotional Burnout Among Russian Wartime Migrants](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2025.2477417), with E.Kamalov *Post-Soviet Affairs*
+    
+[Gender Egalitarianism of Recent Emigrants from Russia: The Effect of Emigration or a Trait of a Social Group?](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2025.2477417), with V.Kostenko and E.Kamalov *Communist and Post-Communist Studies*
+
+Book Chapter [Voice after Exit? Exploring Civic Activism among Russian Migrant Communities in Eurasia after February 24, 2022](https://osf.io/preprints/socarxiv/3dnsv). *Global Migration and Illiberalism in Russia, Eurasia and Eastern Europe*, Helsinki University Press. With M.Zavadskaya, E. Kamalov.
+
+
+## Articles Under Review
+
+[Helping to Flee a Political Crisis: A Conjoint Experiment on the Aid Preferences of Wartime Russian Migrants"](https://osf.io/preprints/socarxiv/qg3sx), with E.Kamalov (*minor R&R in Perspectives on Politics*)
+
+Measuring Intimate Partner Violence in Middle-Income Country: Evidence from Field and Survey Experiments, with E. Kamalov (*R&R in Sociological Methods & Research*)
+
+[Unintended Consequences of Transnational Repressions: How Opposition Gains Support in Response to Criminalization by Autocrats](https://osf.io/preprints/socarxiv/wks2m), with E. Kamalov
+
+Russia: Repressive Innovations in Wartime, with K. Stoner (in edited volume, Cambridge University Press)
+
 ### Working Papers
 
-[Voice after Exit? Exploring Civic Activism among Russian Migrant Communities in Eurasia after February 24, 2022](https://osf.io/preprints/socarxiv/3dnsv). Forthcoming in *Global Migration and Illiberalism in Russia, Eurasia and Eastern Europe*, Helsinki University Press. With M.Zavadskaya, E. Kamalov.
+Pushing Away the Brain Gain: Effect of Discrimination on Integration of Politically Induced Migrants. [Best Doctoral Papers Award](https://nationalities.org/prizes/doctoral-student-award/2024-doctoral-students-awards/) in Nationalism/Migration, 25th Annual World Convention of the Association for the Study of Nationalities
 
-[Pushing Away the Brain Gain: Effect of Discrimination on Integration of Politically Induced Migrants.](-of-emigrants-from-the-aggressor-country-with-ivetta-sergeeva) [Best Doctoral Papers Award](https://nationalities.org/prizes/doctoral-student-award/2024-doctoral-students-awards/) in Nationalism/Migration, 25th Annual World Convention of the Association for the Study of Nationalities
-
-[You Can Leave The Autocracy, But Will The Autocracy Leave You? Subjective Well-being of Russian Political Migrants in 2022](https://osf.io/preprints/socarxiv/2wmuy). With E.Kamalov
-
-[Helping to flee a political crisis: a Conjoint Experiment of Russian Migrants](https://osf.io/preprints/socarxiv/qg3sx). With E. Kamalov
+Reversing Brain Drain from Autocracies: How Autocratic Incentives, Regime Change, and Hostland Conditions Shape the Return of Political Emigrants. With E.Kamalov
 
 How to Maintain a Panel Survey of Political Migrants: Evidence from Field Experiments. With E.Kamalov
-
-Measuring Intimate Partner Violence in Middle-Income Country: Evidence from Field and Survey Experiments. With E. Kamalov
 
 The effect of discrimination on the political behavior of recent migrants: evidence from three waves of the panel survey of new Russian migrants. With E. Kamalov
 
 Can media framing increase support for health reform? Results of the Conjoint Experiment. With B. Sokolov, M. Zavadskaya and E. Kamalov.
 
 ### Survey Reports
+
 [A Year and a Half in Exile: Progress and Obstacles in the Integration of Russian Migrants](https://doi.org/10.31235/osf.io/ckf4v). *SocArXiv*, 2024. With E. Kamalov
 
 [Six Months in Exile: A New Life of Russian Emigrants](https://osf.io/preprints/socarxiv/epn2c/). *SocArXiv*, 2023. With E. Kamalov, V. Kostenko, M. Zavadskaya.
@@ -57,6 +72,8 @@ Can media framing increase support for health reform? Results of the Conjoint Ex
 [Russia's 2022 Anti-War Exodus: The Attitudes and Expectations of Russian Migrants](https://www.ponarseurasia.org/russias-2022-anti-war-exodus-the-attitudes-and-expectations-of-russian-migrants/). *Ponars Eurasia*, 2022. With V. Kostenko, M. Zavadskaya, E. Kamalov
 
 ### Selected Media
+
+[For Many Russian Exiles, Even a Peace Deal Might Not Mean a Ticket Home](https://www.nytimes.com/2025/04/06/world/europe/russian-exiles-return-putin-war-ceasefire.html). *The New York Times*, 2025
 
 [Russians who left abroad increasingly return home, boosting economy](https://www.bloomberg.com/news/articles/2024-05-02/russians-who-fled-war-return-in-boost-for-putin-s-war-economy). *Bloomberg*, 2024
 
