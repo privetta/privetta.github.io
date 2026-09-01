@@ -14,61 +14,67 @@ title: "Publications and Media"
 
 ### Peer-Reviewed Publications
 
--   [Invisible Costs of Exiting Autocracy: Subjective Well-being and Emotional Burnout Among Russian Wartime Migrants](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2025.2477417), with E.Kamalov *Post-Soviet Affairs*
+-   [Helping Emigrants to Flee a Political Crisis: How Antiwar Alignment Shapes the Aid Preferences of Wartime Russian Migrants](https://www.cambridge.org/core/journals/perspectives-on-politics/article/helping-emigrants-flee-a-political-crisis-how-antiwar-alignment-shapes-the-aid-preferences-of-wartime-russian-migrants/EAC8F861EA166E1B20D4A347323FE003), with E. Kamalov, 2026. *Perspectives on Politics*
 
--   [Gender Egalitarianism of Recent Emigrants from Russia: The Effect of Emigration or a Trait of a Social Group?](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2025.2477417), with V.Kostenko and E.Kamalov *Communist and Post-Communist Studies*
+-   [What Works for Measuring Intimate Partner Violence: Evidence from a Series of List Experiments and Self-Administered Surveys](https://journals.sagepub.com/doi/abs/10.1177/00491241261436407), with E. Kamalov, 2026. *Sociological Methods & Research*
 
--   Book Chapter [Voice after Exit? Exploring Civic Activism among Russian Migrant Communities in Eurasia after February 24, 2022](https://osf.io/preprints/socarxiv/3dnsv). *Global Migration and Illiberalism in Russia, Eurasia and Eastern Europe*, Helsinki University Press. With M.Zavadskaya, E. Kamalov.
+-   [Invisible Costs of Exiting Autocracy: Subjective Well-being and Emotional Burnout Among Russian Wartime Migrants](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2025.2477417), with E. Kamalov, 2025. *Post-Soviet Affairs*
 
-## Articles Under Review
+-   [Gender Egalitarianism of Recent Emigrants from Russia: The Effect of Emigration or a Trait of a Social Group?](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2025.2477417), with V. Kostenko and E. Kamalov, 2025. *Communist and Post-Communist Studies*
 
--   [Helping to Flee a Political Crisis: A Conjoint Experiment on the Aid Preferences of Wartime Russian Migrants"](https://osf.io/preprints/socarxiv/qg3sx), with E.Kamalov (*R&R in Perspectives on Politics*)
+### Book Chapters
 
--   Measuring Intimate Partner Violence in Middle-Income Country: Evidence from Field and Survey Experiments, with E. Kamalov (*R&R in Sociological Methods & Research*)
+-   [Russia: Repressive Innovations in Wartime](https://www.cambridge.org/core/books/transnational-repression/5E02980B9E67AE7B7702C382ECB2EA3C), with K. Stoner. *Transnational Repression: A Comparative Perspective Across Autocracies and Democracies*, eds. Klaus Brummer and Sumit Ganguly. New York: Cambridge University Press
 
--   [Unintended Consequences of Transnational Repressions: How Opposition Gains Support in Response to Criminalization by Autocrats](https://osf.io/preprints/socarxiv/wks2m), with E. Kamalov
+-   [Voice after Exit? Exploring Civic Activism among Russian Migrant Communities in Eurasia after February 24, 2022](https://hup.fi/site/books/e/10.33134/HUP-26/). *Global Migration and Illiberalism in Russia, Eurasia and Eastern Europe*, Helsinki: Helsinki University Press, 2024. With M. Zavadskaya and E. Kamalov
 
--   Russia: Repressive Innovations in Wartime, with K. Stoner (in edited volume, Cambridge University Press)
+### Articles Under Review
+
+-   [Unintended Consequences of Transnational Repression: How Opposition Gains Support in Response to Criminalization by Autocrats](https://osf.io/preprints/socarxiv/wks2m), with E. Kamalov (*R&R at International Organization*)
+
+-   Gendered Response to War: Explaining the Gender Gap in Political Activism of Wartime Russian Emigrants, 2022-2023. With K. Nugumanova and E. Kamalov
+
+-   [Can Media Framing Increase Support for Health Reform? Results of the Conjoint Experiment](https://drive.google.com/file/d/1YyifPwlml-hjNDzo9fPBIJag7kx6q19y/), with B. Sokolov, M. Zavadskaya and E. Kamalov
 
 ### Working Papers
 
--   Pushing Away the Brain Gain: Effect of Discrimination on Integration of Politically Induced Migrants. [Best Doctoral Papers Award](https://nationalities.org/prizes/doctoral-student-award/2024-doctoral-students-awards/) in Nationalism/Migration, 25th Annual World Convention of the Association for the Study of Nationalities
+-   Authoritarian Passport: How States Weaponize Bureaucratic Dependencies for Emigrants. With E. Kamalov
 
--   Reversing Brain Drain from Autocracies: How Autocratic Incentives, Regime Change, and Hostland Conditions Shape the Return of Political Emigrants. With E.Kamalov
+-   [Reversing Brain Drain from Autocracies: How Autocratic Incentives, Regime Change, and Hostland Conditions Shape the Return of Political Emigrants](https://drive.google.com/file/d/1ipqlPIeQmeVoynXsgncgcNO09KqzFuKM/view?usp=sharing). With E. Kamalov
 
--   How to Maintain a Panel Survey of Political Migrants: Evidence from Field Experiments. With E.Kamalov
+-   [Pushing Away the Brain Gain: Effect of Discrimination on Integration of Politically Induced Migrants](https://drive.google.com/file/d/1oNTVdbUfGzwiuNqZNWri2OaPsGQkDtm2/view). [Best Doctoral Papers Award](https://nationalities.org/prizes/doctoral-student-award/2024-doctoral-students-awards/) in Nationalism/Migration, 25th Annual World Convention of the Association for the Study of Nationalities
 
--   The effect of discrimination on the political behavior of recent migrants: evidence from three waves of the panel survey of new Russian migrants. With E. Kamalov
-
--   Can media framing increase support for health reform? Results of the Conjoint Experiment. With B. Sokolov, M. Zavadskaya and E. Kamalov.
+-   [How to Maintain a Panel Survey of Political Migrants: Evidence from Field Experiments](https://drive.google.com/file/d/1bduV7Dvptf2XpnNHymXRVa6tCsDntgZD/view). With E. Kamalov
 
 ### Survey Reports
 
--   [A Year and a Half in Exile: Progress and Obstacles in the Integration of Russian Migrants](https://doi.org/10.31235/osf.io/ckf4v). *SocArXiv*, 2024. With E. Kamalov
+-   [A Year and a Half in Exile: Progress and Obstacles in the Integration of Russian Migrants](https://outrush.io/memo_january_2024). Invited presentation, *European Commission*, 2024. With E. Kamalov
 
--   [Six Months in Exile: A New Life of Russian Emigrants](https://osf.io/preprints/socarxiv/epn2c/). *SocArXiv*, 2023. With E. Kamalov, V. Kostenko, M. Zavadskaya.
+-   [Six Months in Exile: A New Life of Russian Emigrants](https://osf.io/preprints/socarxiv/epn2c/). *SocArXiv*, 2023. With E. Kamalov, V. Kostenko, M. Zavadskaya
 
--   [Partner violence in Russia: Results of a Series of Surveys](https://violencemonitor.org/report_2023). *Violencemonitor.org*, 2023. With E. Kamalov (in Russian).
+-   [Studying Public Opinion Among Migrants: Challenges and Opportunities](https://www.ssoar.info/ssoar/bitstream/handle/document/86786/ssoar-russanald-2023-292-kamalov_et_al-Studying_Public_Opinion_Among_Migrants.pdf?sequence=1&isAllowed=y). *Russian Analytical Digest*, 2023, No. 292. With E. Kamalov, M. Zavadskaya, V. Kostenko
 
--   [The Great Exodus: A Portrait of New Migrants from Russia. Report on the results of the March 2022 survey](https://outrush.io/report_march_2022). *OutRush project*, 2022. With E. Kamalov, V. Kostenko, M. Zavadskaya.
+-   [Partner Violence in Russia: Results of a Series of Surveys](https://violencemonitor.org/report_2023). *Violencemonitor.org*, 2023. With E. Kamalov (in Russian)
 
-### Policy and Media Papers
+-   [The Great Exodus: A Portrait of New Migrants from Russia. Report on the Results of the March 2022 Survey](https://outrush.io/report_march_2022). *OutRush project*, 2022. With E. Kamalov, V. Kostenko, M. Zavadskaya
+
+### Policy Briefs and Blogs
+
+-   [Russians Are Finally Angry About Censorship](https://www.persuasion.community/p/russians-are-finally-angry-about). *Persuasion*, 2026
 
 -   [Should I Stay or Should I Go? Russian Emigration in Flux](https://carnegieendowment.org/russia-eurasia/politika/2024/07/russian-emigration-in-flux?lang=en&center=russia-eurasia). *Carnegie Politika*, 2024. With E. Kamalov
 
--   [Far from Home: Russians Relocating to Latin America](https://www.ponarseurasia.org/far-from-home-russians-relocating-to-latin-america/). *Ponars Eurasia*, 2024. With S. Ruseishvili, E. Kamalov
+-   [Far from Home: Russians Relocating to Latin America](https://www.ponarseurasia.org/far-from-home-russians-relocating-to-latin-america/). *PONARS Eurasia*, 2024. With S. Ruseishvili and E. Kamalov
 
--   [New Russian Migrants Against the War: Political Action in Russia and Abroad](https://library.fes.de/pdf-files/international/20458.pdf). *Friedrich-Ebert-Stiftung*, 2023. With E. Kamalov, M. Zavadskaya, V.Kostenko.
+-   [In their Own Voice: Supporting Russia's Wartime Migrants](https://www.ponarseurasia.org/in-their-own-voice-supporting-russias-wartime-migrant). *PONARS Eurasia*. With R. Smyth, E. Kamalov, M. Zavadskaya, V. Kostenko, M. Turchenko, A. Semenov
 
--   [Studying Public Opinion Among Migrants: Challenges and Opportunities](https://www.research-collection.ethz.ch/handle/20.500.11850/599408). *Russian Analytical Digest*, 2023, No. 292. With E. Kamalov, M. Zavadskaya, V.Kostenko.
+-   [New Russian Migrants Against the War: Political Action in Russia and Abroad](https://library.fes.de/pdf-files/international/20458.pdf). *Friedrich-Ebert-Stiftung*, 2023. With E. Kamalov, M. Zavadskaya, V. Kostenko
 
--   [Abuse, slapping, control: more than 20 million Russians have experienced partner violence](https://www.forbes.ru/forbes-woman/486866-ab-uz-slepki-kontrol-bolee-20-mln-rossian-stalkivalis-s-partnerskim-nasiliem). *Forbes Russia*, 2023. With E. Kamalov
+-   [The Russian Rhizome: A Social Portrait of New Immigrants](https://re-russia.net/en/expertise/045/). *Re-Russia*, 2023. With E. Kamalov, V. Kostenko, M. Zavadskaya
 
--   [The Russian Rhizome: a Social Portrait of New Immigrants](https://re-russia.net/en/expertise/045/). *Re-Russia*, 2023. With E. Kamalov, V. Kostenko, M. Zavadskaya
+-   [New Activists or New 'Common Folk?' The Evolution of Political Activism Among Russian Anti-war Emigrants](https://russiapost.info/society/common_folk). *Russia.Post*, 2023. With M. Zavadskaya, E. Kamalov, V. Kostenko
 
--   [New activists or new 'common folk?' The evolution of political activism among Russian anti-war emigrants](https://russiapost.info/society/common_folk). *Russia.Post*, 2023. With M. Zavadskaya, E. Kamalov, V. Kostenko.
-
--   [Russia's 2022 Anti-War Exodus: The Attitudes and Expectations of Russian Migrants](https://www.ponarseurasia.org/russias-2022-anti-war-exodus-the-attitudes-and-expectations-of-russian-migrants/). *Ponars Eurasia*, 2022. With V. Kostenko, M. Zavadskaya, E. Kamalov
+-   [Russia's 2022 Anti-War Exodus: The Attitudes and Expectations of Russian Migrants](https://www.ponarseurasia.org/russias-2022-anti-war-exodus-the-attitudes-and-expectations-of-russian-migrants/). *PONARS Eurasia*, 2022. With V. Kostenko, M. Zavadskaya, E. Kamalov
 
 ### Selected Media
 
@@ -76,11 +82,13 @@ title: "Publications and Media"
 
 -   [Russians who left abroad increasingly return home, boosting economy](https://www.bloomberg.com/news/articles/2024-05-02/russians-who-fled-war-return-in-boost-for-putin-s-war-economy). *Bloomberg*, 2024
 
--   [I no longer have a country’: Antiwar Russians who fled unlikely to return](https://www.aljazeera.com/news/2024/1/22/russian-exiles-unlikely-to-return). *Al Jazeera*, 2024
+-   [I no longer have a country': Antiwar Russians who fled unlikely to return](https://www.aljazeera.com/news/2024/1/22/russian-exiles-unlikely-to-return). *Al Jazeera*, 2024
 
 -   [Du willst weg vom Krieg, aber er holt dich überall ein](https://www.faz.net/aktuell/ukraine/ukrainekrieg-wie-russen-ihre-rueckkehr-aus-dem-exil-wahrnehmen-19374672.html). *Frankfurter Allgemeine*, 2023
 
 -   [The Russians returning home from self-imposed exile](https://www.ft.com/content/5e6bcce9-7bda-4b29-b1b7-f7df6e879fd9). *Financial Times,* 2023
+
+-   [Abuse, slapping, control: more than 20 million Russians have experienced partner violence](https://www.forbes.ru/forbes-woman/486866-ab-uz-slepki-kontrol-bolee-20-mln-rossian-stalkivalis-s-partnerskim-nasiliem). *Forbes Russia*, 2023. With E. Kamalov
 
 -   [Почему релоканты едут домой?](https://www.youtube.com/watch?v=Bvcfj9a9XH8&t=4028s) *Живой Гвоздь*, 2023
 
